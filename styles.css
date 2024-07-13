@@ -1,0 +1,44 @@
+.divider{
+    border-bottom:10px solid #888989;
+    margin: 0;
+  }
+  #title{
+    font-size: 40px;
+    font-style: "Ariel";
+    text-align: center;
+    font-weight: 800;
+  }
+  .img-div{
+    display:flex;
+    justify-content:center;
+    align-items:center; 
+    height:300px;
+    border: 1px solid #ccc 
+  }
+  img{
+    max-width:100%;
+    max-height:100%; 
+
+    display:block;
+  }
+  figcaption{
+   color: green;
+   text-align:center;
+   font-style: sans-serif;
+   font-size: 15px;
+   
+  }
+  
+  .info{
+    color: hsl(186, 76%, 15%);
+    font-size: 17px;
+    padding: 1em;
+    margin:5px auto;
+    
+  }
+   a{
+      display: flex;
+      justify-content: center;
+      font-size: 20px;
+  }
+  
